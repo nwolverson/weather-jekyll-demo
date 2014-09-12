@@ -1,0 +1,9 @@
+# Site settings
+title: Weather demo - d3+phantom+jekyll
+email: nwolverson@scottlogic.co.uk
+description: Demo Jekyll site for D3+PhantomJS static generation.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://scottlogic.com/blog/nwolverson" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
